@@ -12,8 +12,8 @@ Completing Makers Academy has been a great experience which turned me into a com
 
 Project | Description | Technologies Used | Testing Technologies  
 ---|---|---|---   
-[BankJS](https://github.com/olegfkl/BankJS) | Extended tech test building a bank | Javascript | Jasmine
-[project](https://github.com/olegfkl/BankJS) | Extended tech test building a bank | Javascript | Jasmine
+[BankJS](https://github.com/olegfkl/BankJS) | Extended basic tech test building a bank following TDD approach | Javascript | Jasmine
+[Foodie](https://github.com/tabrza/foodie) | Ongoing final project at Makers Academy | Node.js, Express, MongoDB, React.js | Jest
 
 ***
 # Skills
@@ -71,5 +71,6 @@ security technologies with self-study and practice while securing live networks.
 
 ***
 # Interests
-
--
+- Former pro and now advanced player of tennis. A winner of many national and
+international junior tournaments
+- Music producing
