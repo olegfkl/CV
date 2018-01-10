@@ -38,10 +38,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 # Experience
 
 #### Makers Academy    
-Software Development Bootcamp  (Oct '17 - Present)  
+##### Software Development Bootcamp  (Oct '17 - Present)  
 
 #### Freelance network engineer
-(Apr '15 - Jan '17)   
+##### (Apr '15 - Jan '17)   
 
 #### IT Consultant, Technical Support
 ##### Camelot-Tours Ltd  (Nov '13 - Mar '15)                     
@@ -69,7 +69,7 @@ Providing Tier 2 IT infrastructure and customer support. The major client is Sig
 IP network and customers across the UK connected.
 
 
-###### Responsibilities include:                     
+##### Responsibilities include:                     
 <dl>
   <dd><em>- Cisco network infrastructure monitoring, support, and troubleshooting</em></dd>
   <dd><em>- Participation in planning and implementing the configuration changes</em></dd>
