@@ -13,7 +13,7 @@ Completing Makers Academy has been a great experience which has turned me into a
 Project | Description | Technologies Used | Testing Technologies  
 ---|---|---|---   
 [BankJS](https://github.com/olegfkl/BankJS) | Extended basic tech test building a bank following TDD approach | Javascript | Jasmine
-[Foodie](https://github.com/tabrza/foodie) | Ongoing final project at Makers Academy | Node.js, Express, MongoDB, React.js | Jest
+[fooDeal](https://github.com/tabrza/foodie) | Final project at Makers Academy | Node.js, Express, MongoDB, React.js | Jest
 
 ***
 # Skills
@@ -22,23 +22,11 @@ Project | Description | Technologies Used | Testing Technologies
 
 - **Attention to Detail** - Strong believer small details make a big difference. I've always found myself being detail oriented. Proofreading the code is important and I take pride in small but smart implementations in my code.
 
-<!-- - **Fast and Adaptable learner** -  
-- **Analytical thinker / Problem Solver** -
-
-
-***
-#### Another Skill
-- Curious and passionate about code.
-- Fast, independent learner
-- Great collaborator
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
-
+# Tech Skills
+- Ruby, Javascript.
+- Frameworks: Sinatra, Rails, React.js, Nodejs.
+- Testing: Rspec, Capybara, Jasmine.
+- Methodologies: TDD, BDD, XP, Agile, DRY.
 
 ***
 # Experience
@@ -89,7 +77,7 @@ IP network and customers across the UK connected.
 #### Makers Academy (Sept 2017 to Jan 2018)
 
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
