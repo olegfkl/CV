@@ -18,27 +18,33 @@ Project | Description | Technologies Used | Testing Technologies
 ***
 # Skills
 
-- **Communication** -
-- **Fast and Adaptable learner** -  
-- **Feedback** -
+- **Communication** - During the last three months at Makers Academy the large focus was on group and pair work. Communication has been the key to successful learning and delivering quality projects in our Agile teams.
+
+- **Attention to Detail** - Strong believer small details make a big difference. I've always found myself being detail oriented. Proofreading the code is important and I take pride in small but smart implementations in my code.
+
+<!-- - **Fast and Adaptable learner** -  
 - **Analytical thinker / Problem Solver** -
+
 
 ***
 #### Another Skill
+- Curious and passionate about code.
+- Fast, independent learner
+- Great collaborator
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 
 ***
 # Experience
 
 #### Makers Academy    
-##### Software Development Bootcamp  (Oct '17 - Present)  
+##### Software Development Bootcamp  (Oct '17 - Jan '18)  
 
 #### Freelance network engineer
 ##### (Apr '15 - Jan '17)   
@@ -82,9 +88,6 @@ IP network and customers across the UK connected.
 
 #### Makers Academy (Sept 2017 to Jan 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
