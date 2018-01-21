@@ -11,22 +11,23 @@ Completing Makers Academy has been a great experience which has turned me into a
 # Projects
 
 Project | Description | Technologies Used | Testing Technologies  
----|---|---|---   
+---|---|---|---  
+[MakersBnB](https://github.com/olegfkl/MakersBnB) | Clone of AirBnB using JavaScript | Ruby, Javascript, Datamapper, Postgres, BCrypt, Carrierwave, Sinatra | RSpec, Capybara, Jasmine,
 [BankJS](https://github.com/olegfkl/BankJS) | Extended basic tech test building a bank following TDD approach | Javascript | Jasmine
-[fooDeal](https://github.com/tabrza/foodie) | Final project at Makers Academy | Node.js, Express, MongoDB, React.js | Jest
+[fooDeals](https://github.com/olegfkl/fooDeals) | Final team project at Makers Academy building food deals application | Node.js, Express, MongoDB, React.js | Jest
 
 ***
 # Skills
 
 - **Communication** - During the last three months at Makers Academy the large focus was on group and pair work. Communication has been the key to successful learning and delivering quality projects in our Agile teams.
 
-- **Attention to Detail** - Strong believer small details make a big difference. I've always found myself being detail oriented. Proofreading the code is important and I take pride in small but smart implementations in my code.
+- **Attention to Detail** - I am a strong believer small details make a big difference. I've always found myself being detail oriented. Proofreading the code is important and I take pride in small but smart implementations in my code.
 
 # Tech Skills
 - Ruby, Javascript.
-- Frameworks: Sinatra, Rails, React.js, Nodejs.
+- Frameworks: Sinatra, Rails, React.js, Node.js.
 - Testing: Rspec, Capybara, Jasmine.
-- Methodologies: TDD, BDD, XP, Agile, DRY.
+- Methodologies: OOP, TDD, BDD, XP, Agile, DRY.
 
 ***
 # Experience
